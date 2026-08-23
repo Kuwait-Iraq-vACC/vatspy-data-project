@@ -19013,6 +19013,7 @@ OERK|Riyadh Terminal||OERK
 OIIX|Tehran|TEH|OIIX
 OJAC|Amman||OJAC
 OKAC|Kuwait|OKAC|OKAC
+OKAC|Kuwait (Above FL350) - Kuwait|OKAC|OKAC
 OLBB|Beirut|OLBA|OLBB
 OMAE|U.A.E||OMAE
 OOMM|Muscat||OOMM
@@ -19028,9 +19029,13 @@ OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad|ORBB|ORBB
 ORBB-N|Baghdad (North) - Baghdad|ORBB_N|ORBB-N
+ORBB-N|Baghdad (North) - Baghdad|ORBB_NM|ORBB-N
 ORBB-N|Baghdad (North) - Baghdad|ORBB_NU|ORBB-N
+ORBB-N|Baghdad (North) - Baghdad|ORBB_NUM|ORBB-N
 ORBB-S|Baghdad (South) - Baghdad|ORBB_S|ORBB-S
+ORBB-S|Baghdad (South) - Baghdad|ORBB_SM|ORBB-S
 ORBB-S|Baghdad (South) - Baghdad|ORBB_SU|ORBB-S
+ORBB-S|Baghdad (South) - Baghdad|ORBB_SUM|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OTDF|Doha||OTDF
 OTDF-N|Doha (North SFC-FL245)|OTDF_N|OTDF-N
